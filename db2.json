@@ -1,0 +1,38 @@
+[
+     {
+          "sname": "Ram",
+          "sid": 98734,
+          "percentage": 92,
+          "branch": "MPC"
+     },
+     {
+          "sname": "Swathi",
+          "sid": 97689,
+          "percentage": 94,
+          "branch": "Bipc"
+     },
+     {
+          "sname": "Kiran",
+          "sid": 99659,
+          "percentage": 93,
+          "branch": "Mpc"
+     },
+     {
+          "sname": "johnmcarthy",
+          "sid": 93898,
+          "percentage": 89,
+          "branch": "MEC"
+     },
+     {
+          "sname": "jairam",
+          "sid": 78963,
+          "percentage": 79,
+          "branch": "MPC"
+     },
+     {
+          "sname": "raju",
+          "sid": 71585,
+          "percentage": 91,
+          "branch": "MEC"
+     }
+]
